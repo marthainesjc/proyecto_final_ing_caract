@@ -1,4 +1,4 @@
-# Análisis de la Percepción de Seguridad en México utlizando datos de la Incidencia Delictiva
+# Análisis de la Percepción de Seguridad en México utilizando datos de la Incidencia Delictiva
 
 Se presenta el Proyecto Final del curso de Ingeniería de Características de la [MCD Unison](https://mcd.unison.mx/). En este proyecto recabamos información de los datos de la Encuesta Nacional de Victimización y Percepción sobre Seguridad Pública (ENVIPE) y de la Incidencia Delictiva del SENSP. 
 
