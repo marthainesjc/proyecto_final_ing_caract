@@ -4,7 +4,7 @@ Se presenta el Proyecto Final del curso de Ingeniería de Características de la
 
 El objetivo de este proyecto es manejar las herramientas de la Ingeniería de Características para realizar data analysis.
 
-En resumen, se crea una nueva base de datos uniendo la información de la ENVIPE y de la Incidencia Delictiva y se analizan las caracterísiticas de las variables para mostrar que la incidencia delictiva en efecto suscita la inseguridad en México.
+En resumen, se crea una nueva base de datos uniendo la información de la ENVIPE `envipe_00_valor.csv` y de la Incidencia Delictiva `crimes.csv` y se analizan las caracterísiticas de las variables para mostrar que la incidencia delictiva en efecto suscita la inseguridad en México.
 
 **1. problematica-y-manejo-raw-data.ipynb** : se presenta la problemática a tratar y se realiza una limpieza de datos para generar la nueva base de datos     `percep_seguridad_crimenes.csv`.
 
